@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "emmanuel njex",
+        "age": 20,
+        "specialist": "help desk engineer"
+    },
+    {
+        "id": 2,
+        "name": "alex njasi",
+        "age": 20,
+        "specialist": "medical engineer"
+    },
+    {
+        "id": 3,
+        "name": "lams hussien",
+        "age": 20,
+        "specialist": "marketing manager"
+    }
+]
